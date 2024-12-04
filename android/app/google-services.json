@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31071139972",
+    "project_id": "fluttershop-b6dd1",
+    "storage_bucket": "fluttershop-b6dd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31071139972:android:7b464c2fd68687aa44aad1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ne5jqFTBh2diA1iMvRAthMVF4TBXzc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
